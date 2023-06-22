@@ -1,0 +1,29 @@
+.djin {
+    width: 200px;
+    position: relative;
+}
+
+.djin p {
+    position: absolute;
+    top: 0;
+    color: white;
+    font-size: 25px;
+    left: 10px;
+    user-select: none;
+    margin: 0;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+    user-select: none;
+}
+
+.fetched {
+    width: 400px;
+}
+
+.fetched p {
+    font-size: 32px;
+    font-family: cursive;
+}
