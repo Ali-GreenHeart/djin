@@ -1,6 +1,7 @@
 .djin {
     width: 200px;
     position: relative;
+    display: none;
 }
 
 .djin p {
@@ -20,10 +21,15 @@ img {
 }
 
 .fetched {
+    display: none;
     width: 400px;
 }
 
 .fetched p {
     font-size: 32px;
     font-family: cursive;
+}
+
+audio {
+    display: none;
 }
